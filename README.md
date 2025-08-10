@@ -13,12 +13,11 @@
 ## Установка
 
 1. Клонировать репозиторий  
-```bash
+
 git clone <url>
 cd openrpa
 
 2. Создать и активировать виртуальное окружение
-```bash
 
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
